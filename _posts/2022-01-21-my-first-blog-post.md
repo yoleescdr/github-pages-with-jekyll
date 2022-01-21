@@ -1,3 +1,5 @@
-title: "Yolee's Title"
-date: 2022-01-22
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 Type a quick draft of your blog post. Remember, you can always edit it later.
